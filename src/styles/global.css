@@ -43,7 +43,7 @@ h1 {
   background-color: #d0c7aa;
 }
 
-.nav-links {
+/* .nav-links {
   width: 100%;
   top: 5rem;
   left: 48px;
@@ -66,7 +66,7 @@ h1 {
 .nav-links a:hover,
 .nav-links a:focus {
   background-color: #008080;
-}
+} */
 
 .expanded {
   display: unset;
